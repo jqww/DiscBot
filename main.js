@@ -26,4 +26,4 @@ client.on('message', message =>{
         client.commands.get('prison').execute(message, args);
     }
 });
-client.login('NzQwNjY3MjY4NDkyNDI3MzM3.XysWJQ.K-43eBQod5rDWk7G8qEa9riiveI');
+client.login('YOUR-KEY-HERE');
