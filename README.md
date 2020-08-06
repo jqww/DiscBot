@@ -1,2 +1,2 @@
-# DiscBot
-DIscord Bot that I created :D
+"# DiscBot" 
+Discord bot, as it says
